@@ -13,7 +13,7 @@ layers:
   - O
   - P
   - BACKSPACE
-  - {t: ESC, h: BT}
+  - {t: CLCK, h: BT}
   - A
   - S
   - D
@@ -23,7 +23,7 @@ layers:
   - J
   - K
   - L
-  - BSLH
+  - MINUS
   - ENTER
   - LSHFT
   - Z
@@ -41,8 +41,8 @@ layers:
   - LALT
   - {t: SPACE, h: Num}
   - {t: SPACE, h: Fnc}
-  - {t: SPACE, h: Fnc}
-  - {t: RALT, h: Num}
+  - {t: BACKSPACE, h: Fnc}
+  - {t: ENTER, h: Num}
   - {t: RCTL, h: Num}
   - LEFT
   - DOWN

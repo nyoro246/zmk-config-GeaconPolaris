@@ -190,7 +190,7 @@ path.combo { stroke: #7f7f7f; }
 </g>
 <g transform="translate(49, 85)" class="key keypos-12">
 <rect rx="6" ry="6" x="-47" y="-26" width="94" height="52" class="key"/>
-<text x="0" y="0" class="key tap">ESC</text>
+<text x="0" y="0" class="key tap">CLCK</text>
 <a href="#BT">
 <text x="0" y="24" class="key hold layer-activator">BT</text>
 </a></g>
@@ -232,7 +232,7 @@ path.combo { stroke: #7f7f7f; }
 </g>
 <g transform="translate(868, 85) rotate(-2.5)" class="key keypos-22">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">BSLH</text>
+<text x="0" y="0" class="key tap">MINUS</text>
 </g>
 <g transform="translate(924, 85)" class="key keypos-23">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -309,13 +309,13 @@ path.combo { stroke: #7f7f7f; }
 </a></g>
 <g transform="translate(644, 225)" class="key keypos-40">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">SPACE</text>
+<text x="0" y="0" class="key tap"><tspan style="font-size: 78%">BACKSPACE</tspan></text>
 <a href="#Fnc">
 <text x="0" y="24" class="key hold layer-activator">Fnc</text>
 </a></g>
 <g transform="translate(700, 225)" class="key keypos-41">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">RALT</text>
+<text x="0" y="0" class="key tap">ENTER</text>
 <a href="#Num">
 <text x="0" y="24" class="key hold layer-activator">Num</text>
 </a></g>
