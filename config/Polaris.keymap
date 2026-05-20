@@ -56,7 +56,7 @@
             label = "Def";
             bindings = <
 &kp TAB       &kp Q       &kp W      &kp E     &kp R          &kp T                   &lt SNIPE Y         &kp U          &kp I         &kp O     &kp P      &kp BACKSPACE
-&lt BT ESC    &kp A       &kp S      &kp D     &kp F          &kp G                   &kp H               &kp J          &kp K         &kp L     &kp MINUS  &kp ENTER
+&lt BT CLCK   &kp A       &kp S      &kp D     &kp F          &kp G                   &kp H               &kp J          &kp K         &kp L     &kp MINUS  &kp ENTER
 &kp LSHFT     &kp Z       &kp X      &kp C     &kp V          &kp B                   &kp N               &kp M          &kp COMMA     &kp DOT   &kp UP
 &mt LCTL ESC  &kp LGUI    &kp LALT             &lt NUM SPACE  &lt FUNC SPACE          &lt FUNC BACKSPACE  &lt NUM ENTER  &lt NUM RCTL  &kp LEFT  &kp DOWN   &kp RIGHT
 &kp LEFT      &kp UP      &kp SPACE  &kp DOWN  &kp RIGHT                              &mkp MB1            &mkp MB3       &mkp MB2
